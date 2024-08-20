@@ -1,0 +1,16 @@
+body{
+    width: 100%;
+}
+
+.main{
+    text-align: center;
+    margin-top: 4%;
+}
+
+.titulo h1{
+    color:#E68FAC;
+}
+
+.titulo p{
+    color: #800080;
+}

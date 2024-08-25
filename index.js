@@ -1,5 +1,19 @@
-var dolar = 514;
+var dolar = loadConfig();
 
+function loadConfig() {
+
+    var d;
+    const xhttp = new XMLHttpRequest();
+    xhttp.onload = function() {
+      d = this.responseText;
+    }
+    xhttp.open("GET", "config.txt");
+    xhttp.send();
+
+    console.log(d);
+
+    return d; 
+  }
 
 function conversion(e){
     var input = document.getElementById(e);

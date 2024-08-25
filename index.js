@@ -1,18 +1,15 @@
-var dolar = loadConfig();
+var dolar = 519;
 
-function loadConfig() {
-
-    var d;
+function loadConfig() {    
     const xhttp = new XMLHttpRequest();
     xhttp.onload = function() {
-      d = this.responseText;
+      dolar = this.responseText;
+      console.log(this.responseText);
     }
-    xhttp.open("GET", "config.txt");
+    xhttp.open("GET", "https://bsandovalmora.github.io/config.txt");
     xhttp.send();
 
-    console.log(d);
-
-    return d; 
+    console.log(dolar);    
   }
 
 function conversion(e){
@@ -60,3 +57,6 @@ function cotizar(){
     final.innerHTML = '₡' + resultado;
     diferencia2.innerHTML = 'Diferencia: ₡' + (resultado - precioCR.value);
 }
+
+
+loadConfig();

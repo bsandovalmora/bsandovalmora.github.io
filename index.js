@@ -1,4 +1,4 @@
-var dolar = 519;
+var dolar = 525;
 
 function loadConfig() {    
     const xhttp = new XMLHttpRequest();

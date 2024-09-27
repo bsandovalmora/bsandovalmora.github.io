@@ -22,11 +22,13 @@ function dif(){
     var precioUS = document.getElementById("txtus");
     var precioCR = document.getElementById("txtcr");
     var diferencia = document.getElementById("txtdif");
+    var venta = document.getElementById("txtventa");
 
     var resultado = precioCR.value - precioUS.value;
 
 
     diferencia.value = resultado;
+    venta.value = parseInt( Math.round(precioUS.value * (8 / 100)));
 
 }
 

@@ -15,7 +15,7 @@ function loadConfig() {
 function conversion(e){
     var input = document.getElementById(e);
 
-    input.value = input.value * dolar;
+    input.value = Math.round(input.value * dolar);
 }
 
 function dif(){

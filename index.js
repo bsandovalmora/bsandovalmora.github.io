@@ -27,7 +27,7 @@ function dif(){
     var resultado = precioCR.value - precioUS.value;
 
 
-    diferencia.value = resultado;
+    diferencia.value = Math.round(resultado);
     venta.value = parseInt( Math.round(precioUS.value * (8 / 100)));
 
 }

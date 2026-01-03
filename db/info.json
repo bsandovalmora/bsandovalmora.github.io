@@ -1,0 +1,25 @@
+[
+    {
+      "id":"keymacr-servicios-contables",
+      "tittle":" – KEYMA -",
+      "subtittle":"Servicios Contables y Financieros",
+      "name_img":"",
+      "descripcion":"Somos una empresa especializada en ofrecer servicios contables y financieros en Costa Rica. En Keyma, nos dedicamos a brindar soluciones integrales y personalizadas para satisfacer las necesidades de nuestros clientes en el ámbito contable y financiero.",
+      "ubicacion":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62895.25199709803!2d-83.96638950068788!3d9.85428941943842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0df1021af2921%3A0xb5e5548558a39c52!2sProvincia%20de%20Cartago%2C%20Cartago!5e0!3m2!1ses-419!2scr!4v1711661365066!5m2!1ses-419!2scr",
+      "contacto":{"telefono":"+506 7239 6949","correo":"info@keymacr.es"},
+      "info":[
+        {
+          "tittle":"Experiencia y conocimientos",
+          "content":"Contamos con una amplia experiencia en el campo de la contabilidad y podemos ayudarle a mantenerse al día con sus obligaciones fiscales y financieras."
+        },
+        {
+          "tittle":"Asesoramiento personalizado",
+          "content":"Nuestro enfoque es personalizado para cada cliente, lo que significa que pueden adaptar sus servicios para satisfacer las necesidades específicas de cada empresa."
+        },
+        {
+          "tittle":"Decisiones empresariales",
+          "content":"Al tener información financiera precisa y confiable, las empresas pueden tomar decisiones empresariales más informadas y estratégicas para el futuro de su negocio."
+        }
+      ]
+    }
+  ]

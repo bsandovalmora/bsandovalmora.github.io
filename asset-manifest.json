@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c6e846f.css",
+    "main.js": "/static/js/main.a0c6daa4.js",
+    "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
+    "static/media/elegir.png": "/static/media/elegir.126d00a2be34b60ec04b.png",
+    "static/media/actividades.png": "/static/media/actividades.bfa6d87b8e975f32db3b.png",
+    "static/media/hero2.png": "/static/media/hero2.b242d901b0cd15913c22.png",
+    "static/media/logo3.png": "/static/media/logo3.710e94c037ba0b3d0751.png",
+    "static/media/planillas.png": "/static/media/planillas.78a3223dc916e0e568e2.png",
+    "static/media/flujo.png": "/static/media/flujo.72ea7a9931d8a5f1f590.png",
+    "static/media/asesoramiento.png": "/static/media/asesoramiento.88e95e98e79b2070348e.png",
+    "static/media/experiencia.png": "/static/media/experiencia.8a3453badc11ab648e9f.png",
+    "static/media/decisiones.png": "/static/media/decisiones.80789d34b7ff0cf13827.png",
+    "static/media/deudas.png": "/static/media/deudas.cdfae512a47ee6f41ba4.png",
+    "static/media/hacienda.png": "/static/media/hacienda.f2f310243a5912cf22ea.png",
+    "static/media/financiero.png": "/static/media/financiero.cfa5f5f5461977867685.png",
+    "static/media/cpi.png": "/static/media/cpi.f3376c3035ce976835cd.png",
+    "static/media/Contabilidad.png": "/static/media/Contabilidad.dfbc88fc1f4d67b9cf2f.png",
+    "static/media/logo.png": "/static/media/logo.14a064e6afa9ff870133.png",
+    "static/media/ola3.svg": "/static/media/ola3.e90ff62503ddaa5075eb14fb50fb0cf4.svg",
+    "index.html": "/index.html",
+    "main.2c6e846f.css.map": "/static/css/main.2c6e846f.css.map",
+    "main.a0c6daa4.js.map": "/static/js/main.a0c6daa4.js.map",
+    "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c6e846f.css",
+    "static/js/main.a0c6daa4.js"
+  ]
+}
